@@ -5,7 +5,7 @@
 
 
 //0730JAR
-"spider":"https://raw.dgithub.xyz/aliinfantasy/test/main/jar%E6%BA%90",
+"spider":"https://raw.dgithub.xyz/aliinfantasy/test/main/jaryuan.jar",
 
 
 
